@@ -1,2 +1,2 @@
 # git_test
-Hello, Odin! jsjsj
+My first ever repository learned via The Odin Project
